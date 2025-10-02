@@ -1,4 +1,6 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
+<price>100</price>
 <catalog>
   <products>
     <product id="1">
@@ -17,7 +19,7 @@
       <name>Mechanical Keyboard</name>
       <price>149.99</price>
       <category>Accessories</category>
-      <inStock>false</inStock>
+      <inStock>true</inStock>
     </product>
     <product id="4">
       <name>USB-C Chubb</name>
