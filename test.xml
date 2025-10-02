@@ -51,9 +51,17 @@
     </product>
     <product id="9">
       <name>Standing Desk</name>
-      <price>599.99</price>
-      <category>Furniture</category>
-      <inStock>false</inStock>
+      <price>600</price>
+      <category>Furnitures</category>
+      <inStock>true</inStock>
+      <description>Standing Desk</description>
+      <dimensions>100x100x100</dimensions>
+      <weight>100</weight>
+      <color>Black</color>
+      <material>Wood</material>
+      <style>Modern</style>
+      <brand>Brand</brand>
+      <model>Model</model>
     </product>
     <product id="10">
       <name>Headphones</name>
